@@ -1,0 +1,16 @@
+PODS:
+  - FunnyButton_SwiftUI (0.1.0)
+
+DEPENDENCIES:
+  - FunnyButton_SwiftUI (from `../`)
+
+EXTERNAL SOURCES:
+  FunnyButton_SwiftUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FunnyButton_SwiftUI: 96c65b9b299d1a1be145216a937ed9aa7b9ddf82
+
+PODFILE CHECKSUM: 8898c75cd7bb66afaf73699d6e3d52c10251d8d3
+
+COCOAPODS: 1.11.3

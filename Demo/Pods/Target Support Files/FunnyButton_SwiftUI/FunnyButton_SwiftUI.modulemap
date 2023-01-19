@@ -1,0 +1,6 @@
+framework module FunnyButton_SwiftUI {
+  umbrella header "FunnyButton_SwiftUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
