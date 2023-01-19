@@ -10,7 +10,7 @@
         ✅ 仅限DEBUG环境；
         ✅ API简单易用。
 
-`UIKit`版本：[FunnyButton_SwiftUI](https://github.com/Rogue24/FunnyButton)
+`UIKit`版本：[FunnyButton](https://github.com/Rogue24/FunnyButton)
 
 ## Effect
 - 单个调试事件
