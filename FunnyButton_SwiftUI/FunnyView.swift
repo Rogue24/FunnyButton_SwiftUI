@@ -1,6 +1,6 @@
 //
 //  FunnyView.swift
-//  Neves_SwiftUI
+//  FunnyButton_SwiftUI
 //
 //  Created by aa on 2023/1/16.
 //
