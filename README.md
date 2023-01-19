@@ -9,6 +9,15 @@
         ✅ 兼容iPhone&iPad；
         ✅ 仅限DEBUG环境；
         ✅ API简单易用。
+    
+## Effect
+- 单个调试事件
+
+![single_action](https://github.com/Rogue24/JPCover/raw/master/FunnyButton_SwiftUI/single_action.gif)
+
+- 多个调试事件
+
+![multiple_actions](https://github.com/Rogue24/JPCover/raw/master/FunnyButton_SwiftUI/multiple_actions.gif)
 
 ## Initialize
 
