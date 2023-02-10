@@ -144,7 +144,7 @@ FunnyButton_SwiftUI is available through [CocoaPods](https://cocoapods.org). To 
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'FunnyButton_SwiftUI'
+pod 'FunnyButton_SwiftUI', :configurations => ['Debug']
 ```
 
 ## Author
