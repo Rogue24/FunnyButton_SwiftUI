@@ -13,6 +13,8 @@
 		002762D829799078007C87B7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 002762D729799078007C87B7 /* Preview Assets.xcassets */; };
 		002762E2297991AF007C87B7 /* MultipleActionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002762E1297991AF007C87B7 /* MultipleActionsView.swift */; };
 		002762E4297991CA007C87B7 /* SingleActionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002762E3297991CA007C87B7 /* SingleActionView.swift */; };
+		00D63E472994C92B003F0C29 /* PresentTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D63E462994C92B003F0C29 /* PresentTestView.swift */; };
+		00D63E492994CE3D003F0C29 /* DemoModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D63E482994CE3D003F0C29 /* DemoModifier.swift */; };
 		89A40F32E6035635BCDF3BC5 /* Pods_Demo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288B65914DDF0A7924FA141A /* Pods_Demo.framework */; };
 /* End PBXBuildFile section */
 
@@ -25,9 +27,11 @@
 		002762DE297990E4007C87B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		002762E1297991AF007C87B7 /* MultipleActionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleActionsView.swift; sourceTree = "<group>"; };
 		002762E3297991CA007C87B7 /* SingleActionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleActionView.swift; sourceTree = "<group>"; };
-		002762E82979947B007C87B7 /* FunnyButton_SwiftUI.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = FunnyButton_SwiftUI.podspec; path = ../FunnyButton_SwiftUI.podspec; sourceTree = "<group>"; };
+		002762E82979947B007C87B7 /* FunnyButton_SwiftUI.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = FunnyButton_SwiftUI.podspec; path = ../FunnyButton_SwiftUI.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		002762E92979947B007C87B7 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		002762EA29799F18007C87B7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		00D63E462994C92B003F0C29 /* PresentTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentTestView.swift; sourceTree = "<group>"; };
+		00D63E482994CE3D003F0C29 /* DemoModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoModifier.swift; sourceTree = "<group>"; };
 		20627ED956061DC91A0C0D56 /* Pods-Demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Demo.release.xcconfig"; path = "Target Support Files/Pods-Demo/Pods-Demo.release.xcconfig"; sourceTree = "<group>"; };
 		288B65914DDF0A7924FA141A /* Pods_Demo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Demo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E27B7F057448F71BCD589362 /* Pods-Demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Demo.debug.xcconfig"; path = "Target Support Files/Pods-Demo/Pods-Demo.debug.xcconfig"; sourceTree = "<group>"; };
@@ -69,9 +73,11 @@
 			children = (
 				002762DE297990E4007C87B7 /* Info.plist */,
 				002762D029799077007C87B7 /* DemoApp.swift */,
+				00D63E482994CE3D003F0C29 /* DemoModifier.swift */,
 				002762D229799077007C87B7 /* ContentView.swift */,
 				002762E3297991CA007C87B7 /* SingleActionView.swift */,
 				002762E1297991AF007C87B7 /* MultipleActionsView.swift */,
+				00D63E462994C92B003F0C29 /* PresentTestView.swift */,
 				002762D429799078007C87B7 /* Assets.xcassets */,
 				002762D629799078007C87B7 /* Preview Content */,
 			);
@@ -230,6 +236,8 @@
 				002762E4297991CA007C87B7 /* SingleActionView.swift in Sources */,
 				002762E2297991AF007C87B7 /* MultipleActionsView.swift in Sources */,
 				002762D329799077007C87B7 /* ContentView.swift in Sources */,
+				00D63E492994CE3D003F0C29 /* DemoModifier.swift in Sources */,
+				00D63E472994C92B003F0C29 /* PresentTestView.swift in Sources */,
 				002762D129799077007C87B7 /* DemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

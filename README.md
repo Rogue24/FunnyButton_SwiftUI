@@ -6,8 +6,7 @@
         ✅ 位于Window层级，不会被app内的界面覆盖；
         ✅ 自适应父View区域，自动靠边，适配横竖屏；
         ✅ 可执行单个/多个调试事件；
-        ✅ 兼容iPhone&iPad；
-        ✅ 仅限DEBUG环境；
+        ✅ 兼容`iPhone`&`iPad`；
         ✅ API简单易用。
 
 `UIKit`版本：[FunnyButton](https://github.com/Rogue24/FunnyButton)

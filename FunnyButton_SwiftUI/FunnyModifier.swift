@@ -14,14 +14,12 @@ public struct FunnyModifier: ViewModifier {
     
     public func body(content: Content) -> some View {
         content
-#if DEBUG
             .onAppear() {
                 funny.getActions = getActions
             }
             .onDisappear() {
                 funny.getActions = nil
             }
-#endif
     }
 }
 
